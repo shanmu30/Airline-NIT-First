@@ -27,7 +27,6 @@ else
 
 $_SESSION['message']="the password miss match";
 
-
 }}
 ?>
 <!DOCTYPE html>
